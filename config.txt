@@ -1,0 +1,4 @@
+port_numbers=80,443
+response_delay=0.5
+logging_level=DEBUG
+vulnerabilities=SQL Injection,Cross-Site Scripting

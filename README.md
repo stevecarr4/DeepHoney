@@ -15,7 +15,7 @@ Provides detailed logging and reporting of captured network traffic.
 
 To install and run DeepHoney, follow these steps:
 
-Clone the DeepHoney repository: git clone https://github.com/your-username/deephoney.git
+Clone the DeepHoney repository: git clone https://github.com/stevecarr4/deephoney.git
 Install the required dependencies: pip install -r requirements.txt
 
 ## Usage ##
